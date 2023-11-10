@@ -1,8 +1,8 @@
 # exel-in-db
 ddl scripts
 
--1 read_exel.py
--2 create_table.py
--3 read_sql_db.py
--4 alter_table.py
--5 drop_column.py
+- read_exel.py
+- create_table.py
+- read_sql_db.py
+- alter_table.py
+- drop_column.py
